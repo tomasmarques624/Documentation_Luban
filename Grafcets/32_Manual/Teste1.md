@@ -7,14 +7,14 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ## Indice
 - [Equipamentos](#equipamentos)
   - [Enconder](#enconder)
-  - [Servo Motor](#servomotor)
-  - [Inversor de Frequência](#inversordefrequência)
+  - [Servo Motor](#servo-motor)
+  - [Inversor de Frequência](#inversor-de-frequência)
 - [Componentes](#componentes)
-  - [Sensor Fotoelétrico](#sensorfotoelétrico)
-  - [Sensor Magnético](#sensormagnético) 
-  - [Sensor Indutivo](#sensorindutivo) 
-  - [Sensor Ótico](#sensorotico) 
-  - [Cilindro Pneumático](#cilindropneumatico)
+  - [Sensor Fotoelétrico](#sensor-fotoelétrico)
+  - [Sensor Magnético](#sensor-magnético) 
+  - [Sensor Indutivo](#sensor-indutivo) 
+  - [Sensor Ótico](#sensor-otico) 
+  - [Cilindro Pneumático](#cilindro-pneumatico)
 
 ## Equipamentos
 --
