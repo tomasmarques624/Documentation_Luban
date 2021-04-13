@@ -7,4 +7,4 @@
   <strong>Conteúdos a Apresentar:</strong> Grafcets da Linha 32 (YL-335B)
 </p>
 
-Grafcet da Estação 30 ![39PLC-1.png](./39PLC-1.png)
+**Grafcet da Estação 30** ![39PLC-1.png](./39PLC-1.png)
