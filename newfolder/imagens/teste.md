@@ -1,4 +1,4 @@
-❮img src="newfolder/imagens/logo_luban_transparent.png" width="100"❯
+![logo_luban_transparent](https://user-images.githubusercontent.com/82448295/114568859-692eae00-9c6c-11eb-890e-2945606f88c9.png)
 
 
 
