@@ -1,4 +1,4 @@
-❮img src="imagens/logo_luban_transparent.png" width="100" ❯
+![](img src="imagens/logo_luban_transparent.png" width="100")
 
 
 
