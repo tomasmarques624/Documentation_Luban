@@ -20,6 +20,6 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 --
 ### Enconder
 --
-### Enconder
-
-### Enconder
+### Servo Motor
+--
+### Inversor de Frequência
