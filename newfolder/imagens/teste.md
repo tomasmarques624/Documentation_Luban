@@ -8,5 +8,18 @@
   <strong>Nome do Aluno:</strong> Luis Barroso // <strong>Número do Aluno:</strong> 190203015
 </p>
 
-###### Grafcet da Estação 30 
+
+**Grafcet da Estação 10**
+![](./19PLC-1.png)![](./19PLC-2.png)![](./19PLC-3.png)
+
+**Grafcet da Estação 20**
+![](./29PLC-1.png)
+
+**Grafcet da Estação 30**
 ![](./39PLC-1.png)
+
+**Grafcet da Estação 40**
+![](./49PLC-1.png)![](./49PLC-2.png)
+
+**Grafcet da Estação 50**
+![](./59PLC-1.png)
