@@ -23,3 +23,18 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ### Servo Motor
 --
 ### Inversor de Frequência
+--
+
+## Componentes
+--
+### Sensor Fotoelétrico
+--
+### Sensor Magnético
+--
+### Sensor Indutivo
+--
+### Sensor Ótico
+--
+### Cilindro Pneumático
+--
+
