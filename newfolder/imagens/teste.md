@@ -1,8 +1,7 @@
 # Grafcets da Linha 32 (YL-335B)
 
 <p>
-  <strong>Nome do Aluno:</strong> Luis Barroso
-  <strong>Número do Aluno:</strong> 190203015
+  <strong>Nome do Aluno:</strong> Luis Barroso // <strong>Número do Aluno:</strong> 190203015
 </p>
 
 
