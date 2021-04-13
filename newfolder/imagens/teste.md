@@ -1,4 +1,6 @@
-# Grafcets da Linha 32 (YL-335B)
+![39PLC-1.png](./39PLC-1.png) # Lu Ban Workshop Portugal
+
+## Grafcets da Linha 32 (YL-335B)
 
 <p>
   <strong>Nome do Aluno:</strong> Luis Barroso // <strong>Número do Aluno:</strong> 190203015
