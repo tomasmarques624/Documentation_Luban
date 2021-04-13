@@ -17,27 +17,9 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   - [Cilindro Pneumático](#cilindropneumatico)
 
 ## Equipamentos
-This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
+--
+### Enconder
+--
+### Enconder
 
 ### Enconder
-clone the repitory from GitHub
-
-    git clone https://github.com/AOEpeople/Tagging.git .
-
-and install dependencies via composer
-
-    wget http://getcomposer.org/composer.phar
-    php composer.phar install
-
- 
-
-Componentes: 
-
-- Sensor Fotoelétrico 
-- Sensor Magnético 
-- Sensor Indutivo 
-- Sensor Ótico 
-
- 
-
-- Cilindro Pneumático 
