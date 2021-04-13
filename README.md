@@ -1,4 +1,4 @@
-<img src="https://github.com/LMigu3liPT/Testes_MB/blob/main/newfolder/imagens/logo_luban_transparent.png" width="80" />    
+<img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80" />    
 
 ## Lu ban Workshop Portugal
 
