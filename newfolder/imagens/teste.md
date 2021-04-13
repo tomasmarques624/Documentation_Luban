@@ -1,4 +1,9 @@
-![logo_luban_transparent.png](./logo_luban_transparent.png) # Lu Ban Workshop Portugal
+❮img src="Testes_MB/newfolder/imagens/logo_luban_transparent.png" width="100" ❯
+
+
+
+
+# Lu Ban Workshop Portugal
 
 ## Grafcets da Linha 32 (YL-335B)
 
