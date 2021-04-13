@@ -13,8 +13,8 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   - [Sensor Fotoelétrico](#sensor-fotoelétrico)
   - [Sensor Magnético](#sensor-magnético) 
   - [Sensor Indutivo](#sensor-indutivo) 
-  - [Sensor Ótico](#sensor-otico) 
-  - [Cilindro Pneumático](#cilindro-pneumatico)
+  - [Sensor Ótico](#sensor-ótico) 
+  - [Cilindro Pneumático](#cilindro-pneumático)
 
 ## Equipamentos
 --
