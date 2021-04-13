@@ -1,7 +1,6 @@
 
-<img src="imagens/logo_luban_transparent.png" >
 
-
+❮img src="imagens/logo_luban_transparent.png" width="100" ❯
 
 
 # Lu Ban Workshop Portugal
