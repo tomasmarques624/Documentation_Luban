@@ -1,4 +1,4 @@
-![39PLC-1.png](./39PLC-1.png) # Lu Ban Workshop Portugal
+![logo_luban_transparent.png](./logo_luban_transparent.png) # Lu Ban Workshop Portugal
 
 ## Grafcets da Linha 32 (YL-335B)
 
