@@ -1,4 +1,5 @@
-![logo_luban_transparent](https://user-images.githubusercontent.com/82448295/114568859-692eae00-9c6c-11eb-890e-2945606f88c9.png)
+
+<img src="imagens/logo_luban_transparent.png" >
 
 
 
@@ -12,4 +13,4 @@
 </p>
 
 Grafcet da Estação 30 
-![39PLC-1.png](./39PLC-1.png)
+![](./39PLC-1.png)
