@@ -2,29 +2,24 @@
 
 # Lu ban Workshop Portugal
 
-This PHP library provide the functionality to automatic create a new tag/version in a remote VCS repository dependending on the last created tag/version. It follows the semantic versioning pattern: http://semver.org/
-You are be able configure the version type to increase. For example "major" or "minor" increasement.
+O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
-Features:
- - Follows the semantic versioning pattern
- - Major, minor and patch version are supported
- - GIT integration
- - Commit (and push) additional files before creating a new tag/version
- - Dry run. Just evaluate the next tag/version
+## Indice
+- [Equipamentos](#equipamentos)
+  - [Enconder](#enconder)
+  - [Servo Motor](#servomotor)
+  - [Inversor de Frequência](#inversordefrequência)
+- [Componentes](#componentes)
+  - [Sensor Fotoelétrico](#sensorfotoelétrico)
+  - [Sensor Magnético](#sensormagnético) 
+  - [Sensor Indutivo](#sensorindutivo) 
+  - [Sensor Ótico](#sensorotico) 
+  - [Cilindro Pneumático](#cilindropneumatico)
 
-## Index
-- [Installation](#installation)
-  - [Clone](#clone)
-  - [Composer](#composer)
-- [Usage](#usage)
-  - [Version-Type](#version-type)
-  - [Commit files before creating a new tag/version](#commit-files-before-creating-a-new-tagversion)
-  - [Evaluate (dry run)](#evaluate-dry-run)
-
-## Installation
+## Equipamentos
 This library is build with composer. So you can even clone this repisory and install the dependencies via composer or just require this library in the composer.json of your project.
 
-### Clone
+### Enconder
 clone the repitory from GitHub
 
     git clone https://github.com/AOEpeople/Tagging.git .
@@ -34,3 +29,15 @@ and install dependencies via composer
     wget http://getcomposer.org/composer.phar
     php composer.phar install
 
+ 
+
+Componentes: 
+
+- Sensor Fotoelétrico 
+- Sensor Magnético 
+- Sensor Indutivo 
+- Sensor Ótico 
+
+ 
+
+- Cilindro Pneumático 
