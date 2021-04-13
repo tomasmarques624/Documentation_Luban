@@ -1,6 +1,6 @@
 
 
-<img src="Testes_MB/newfolder/imagens/logo_luban_transparent.png" width="100">
+<img src="https://github.com/LMigu3liPT/Testes_MB/blob/main/newfolder/imagens/logo_luban_transparent.png" width="100" />
 
 
 # Lu Ban Workshop Portugal
