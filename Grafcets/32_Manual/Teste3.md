@@ -8,25 +8,26 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 [![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32.png)](#Line32)
 [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About.png)](#About)
 
+## Line 32
 
-## Equipamentos
+### Equipamentos
 
   - [Siemens S7 1200](#Siemens-S7-1200) 
   - [Enconder](#enconder)
   - [Servo Motor](#servo-motor)
   - [Inversor de Frequência](#inversor-de-frequência)
 
-### Enconder
+#### Enconder
 Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados para conversão de movimentos rotativos ou deslocamentos lineares em impulsos elétricos de onda quadrada, que geram uma quantidade exata de impulsos por volta em uma distribuição perfeita dos pulsos ao longo dos 360 graus do giro do eixo.
 
-### Servo Motor
+#### Servo Motor
 Loading…
-### Inversor de Frequência
+#### Inversor de Frequência
 Loading…
-### Siemens S7 1200
+#### Siemens S7 1200
 Loading…
 
-## Componentes
+### Componentes
 
   - [Sensor Fotoelétrico](#sensor-fotoelétrico)
   - [Sensor Magnético](#sensor-magnético) 
@@ -34,16 +35,16 @@ Loading…
   - [Sensor Ótico](#sensor-ótico) 
   - [Cilindro Pneumático](#cilindro-pneumático)
 
-### Sensor Fotoelétrico
+#### Sensor Fotoelétrico
 Loading…
-### Sensor Magnético
+#### Sensor Magnético
 Loading…
-### Sensor Indutivo
+#### Sensor Indutivo
 Loading…
-### Sensor Ótico
+#### Sensor Ótico
 Loading…
-### Cilindro Pneumático
+#### Cilindro Pneumático
 Loading…
 
-## Outros
+## About
 
