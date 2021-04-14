@@ -8,6 +8,12 @@
   <strong>Nome do Aluno:</strong> Luis Barroso // <strong>Número do Aluno:</strong> 190203015
 </p>
 
+
+**Grafcet da Estação 10**
+<img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/bancada32_automatico_ALL-29PLC.svg" />  
+
+
+
 **Grafcet da Estação 10**
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/19PLC-1.png" />      
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/19PLC-2.png" />    
