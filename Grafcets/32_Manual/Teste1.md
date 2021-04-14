@@ -1,7 +1,7 @@
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80" />    
 
 
-[Lu ban](#luban) 
+# Luban
 
 Workshop Portugal
 
@@ -47,5 +47,5 @@ Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados
 
 Os cilindros pneumáticos da norelem operam com movimento linear e são acionados por ar comprimido. Eles são denominados também por cilindros de compressão. Os cilindros pneumáticos podem operar com ar filtrado ou seco assim como em estado lubrificado (óleo) ou não lubrificado. Eles são adequados para aplicações nas faixas de temperaturas de -20 °C a +80 °C.
 
-Graças à sua estrutura robusta, os cilindros de compressão são versáteis e de multiaplicação. Estes cilindros pneumáticos podem ser utilizados por exemplo em ferramentas de injeção assim como na tecnologia de movimentação de materiais, de comando e manipulação [Voltar ao Inicio](#luban)
+Graças à sua estrutura robusta, os cilindros de compressão são versáteis e de multiaplicação. Estes cilindros pneumáticos podem ser utilizados por exemplo em ferramentas de injeção assim como na tecnologia de movimentação de materiais, de comando e manipulação [Voltar ao Inicio](#Luban)
 
