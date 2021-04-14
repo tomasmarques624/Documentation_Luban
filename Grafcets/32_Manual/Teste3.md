@@ -12,9 +12,10 @@ Opcao 1:
   <a href="#Outros">Outros</a>
 </div>
 
--
+
 
 Opcao 2:
+
 [![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/2.png)](#Equipamentos)
 [![Componentes](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/1.png)](#Componentes)
 
