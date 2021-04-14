@@ -8,7 +8,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 [![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32.png)](#Line32)
 [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About.png)](#About)
 
-## Line 32
+## Line32
 
 ### Equipamentos
 
