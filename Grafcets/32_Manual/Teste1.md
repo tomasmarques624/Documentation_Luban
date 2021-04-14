@@ -1,6 +1,6 @@
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80" />    
 
-# Lu ban Workshop Portugal
+# [Lu ban Workshop Portugal](#Inicio)
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
@@ -45,5 +45,5 @@ Os cilindros pneumáticos da norelem operam com movimento linear e são acionado
 
 Graças à sua estrutura robusta, os cilindros de compressão são versáteis e de multiaplicação. Estes cilindros pneumáticos podem ser utilizados por exemplo em ferramentas de injeção assim como na tecnologia de movimentação de materiais, de comando e manipulação
 
-[Voltar ao Inicio](#Indice)
+[Voltar ao Inicio](#Inicio)
 
