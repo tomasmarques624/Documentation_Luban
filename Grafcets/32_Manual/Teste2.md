@@ -14,7 +14,6 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 <details>
   <summary>Servo Motor</summary>
   --------
-  [Voltar ao Inicio](#Indice)
  </details>
 <details>
   <summary>Inversor de Frequência</summary>
