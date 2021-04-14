@@ -41,5 +41,5 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 --
 ### Cilindro Pneumático
 O Cilindro Pneumatico e...
-[Voltar ao Menu](#Indice)
+![Voltar ao Inicio](#Indice)
 
