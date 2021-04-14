@@ -20,17 +20,25 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   --------
  </details>
  
- 
- 
-## Indice
-- [Fantastico](#fantastico)
-- [Equipamentos](#equipamentos)
-  - [Enconder](#enconder)
-  - [Servo Motor](#servo-motor)
-  - [Inversor de Frequência](#inversor-de-frequência)
-- [Componentes](#componentes)
-  - [Sensor Fotoelétrico](#sensor-fotoelétrico)
-  - [Sensor Magnético](#sensor-magnético) 
-  - [Sensor Indutivo](#sensor-indutivo) 
-  - [Sensor Ótico](#sensor-ótico) 
-  - [Cilindro Pneumático](#cilindro-pneumático)
+### Componentes
+<details>
+  <summary>Sensor Fotoelétrico</summary>
+  --------
+ </details>
+<details>
+  <summary>Sensor Magnético</summary>
+  --------
+ </details>
+<details>
+  <summary>Sensor Indutivo</summary>
+  --------
+ </details>
+<details>
+  <summary>Sensor Ótico</summary>
+  --------
+ </details>
+<details>
+  <summary>Cilindro Pneumático</summary>
+  --------
+ </details>
+
