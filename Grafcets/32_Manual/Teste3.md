@@ -4,6 +4,7 @@
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
+Opcao 1:
 <div class="topnav">
   <a class="active" </a>
   <a href="#Equipamentos">Equipamentos</a>
@@ -11,6 +12,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   <a href="#Outros">Outros</a>
 </div>
 
+Opcao 2:
 [![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/2.png)](#Equipamentos)
 [![Componentes](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/1.png)](#Componentes)
 
