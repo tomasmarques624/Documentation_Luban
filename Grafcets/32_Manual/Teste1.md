@@ -23,7 +23,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 - O Luís é o maior!!!
 
 ## Equipamentos
---
+
 ### Enconder
 Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados para conversão de movimentos rotativos ou deslocamentos lineares em impulsos elétricos de onda quadrada, que geram uma quantidade exata de impulsos por volta em uma distribuição perfeita dos pulsos ao longo dos 360 graus do giro do eixo.
 
@@ -39,15 +39,25 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
 [Manual Geral - Siemens - PLC S7-1200](https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf)
 
 ## Componentes
-Loading…
+
 ### Sensor Fotoelétrico
-Loading…
+Sensor fotoelétrico pode ser definido como um dispositivo de conversão de luz! A sua função principal é converter uma manifestação luminosa, seja de luz ou sombra em um sinal elétrico, que poderá ser interpretado por um circuito eletrônico como um comando por exemplo.
+
+O sensor fotoelétrico pode ser caracterizado como transdutor quando ele faz a conversão da manifestação luminosa em energia elétrica diretamente. Porém ele também pode ser caracterizado como um sensor quando converte a manifestação luminosa em qualquer grandeza elétrica como por exemplo, tensão, resistência e outras.
+
 ### Sensor Magnético
-Loading…
+São sensores que efetuam um fecho eletrônico mediante a presença de um campo magnético externo, próximo e dentro da área sensível. Esses sensores podem ser sensíveis aos pólos do imã ou somente a um pólo.
+
 ### Sensor Indutivo
-Loading…
+São responsáveis pela conversão de uma grandeza física para um sinal elétrico, que pode ser compreendido pelo PLC. Dentre os inúmeros tipos de sensores com diferentes funções, existe o sensor indutivo. Este tipo de sensor apresenta a capacidade de detectar objetos metálicos em pequenas distâncias. Sendo, portanto, definido como um sensor de proximidade.
+
 ### Sensor Ótico
-Loading…
+
+os sensores ópticos funcionam a partir da emissão e recepção de um feixe de luz. É fato que cada objeto se comporta de uma maneira quando recebe luz, o sensor óptico utiliza esta característica para detectar substâncias e materiais. Ou seja, ele emite uma luz e, dependendo do índice de reflexão ou difração, ele consegue entender o formato, cor, espessura, tamanho e, ainda, a distância que o objeto está do sensor.
+
+Sensores ópticos podem funcionar a partir de diversos tipos de luz: laser, vermelha ou infravermelha. O tipo mais adequado dependerá da função a ser desempenhada. Por exemplo, detecção de objetos por formato, cor, distância ou espessura.
+
+
 ### Cilindro Pneumático
 
 Os cilindros pneumáticos da norelem operam com movimento linear e são acionados por ar comprimido. Eles são denominados também por cilindros de compressão. Os cilindros pneumáticos podem operar com ar filtrado ou seco assim como em estado lubrificado (óleo) ou não lubrificado. Eles são adequados para aplicações nas faixas de temperaturas de -20 °C a +80 °C.
