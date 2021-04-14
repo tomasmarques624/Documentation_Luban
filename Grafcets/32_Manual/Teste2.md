@@ -18,8 +18,8 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   - [Sensor Ótico](#sensor-ótico) 
   - [Cilindro Pneumático](#cilindro-pneumático)
 
-### Equipamentos
-## Enconder
+## Equipamentos
+### Enconder
    <details>
      <summary>Enconder</summary>
 
@@ -28,7 +28,7 @@ Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados
 [Voltar ao Inicio](#Indice)
      </details>
      
-## Servo Motor
+### Servo Motor
    <details>
      <summary>Servo Motor</summary>
 
