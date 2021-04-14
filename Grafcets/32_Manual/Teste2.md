@@ -23,16 +23,17 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
    <details>
      <summary>Enconder</summary>
       Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados para conversão de movimentos rotativos ou deslocamentos lineares em impulsos elétricos de         onda quadrada, que geram uma quantidade exata de impulsos por volta em uma distribuição perfeita dos pulsos ao longo dos 360 graus do giro do eixo.
+
+[Voltar ao Inicio](#Indice)
      </details>
      
-[Voltar ao Inicio](#Indice)
-
 ## Servo Motor
    <details>
      <summary>Servo Motor</summary>
-      "Um servo é utilizado como um atuador em sistemas de controlo automático, ele converte sinais elétricos num movimento angular no veio do motor. Os servos utilizados nas          estações YL-335B (Linha de Produção Automática) na oficina Luban são da Siemens, mais especificamente um motor AC SIMOTICS S-1FL6 e um drive SINAMISC V90 utilizados para        a locomoção do “robô” manipulador de transporte."
+      Um servo é utilizado como um atuador em sistemas de controlo automático, ele converte sinais elétricos num movimento angular no veio do motor. Os servos utilizados nas           estações YL-335B (Linha de Produção Automática) na oficina Luban são da Siemens, mais especificamente um motor AC SIMOTICS S-1FL6 e um drive SINAMISC V90 utilizados para         a locomoção do “robô” manipulador de transporte.
 
 [Voltar ao Inicio](#Indice)
+     </details>
 
 ### Inversor de Frequência
 Um inversor de frequência é um dispositivo capaz de controlar a velocidade de rotação de um motor elétrico trifásico por meio do controle da frequência entregue pela rede elétrica. Dessa forma, se um motor elétrico vai conectado diretamente a rede elétrica, a sua velocidade é constante, já que sua frequência também será constante.
