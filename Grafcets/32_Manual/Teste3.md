@@ -50,4 +50,5 @@ Loading…
 Loading…
 
 ## Outros
-[![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Equipamentos.png)](#Equipamentos)
+[![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/1.png)](#Equipamentos)
+[![Componentes](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/2.png)](#Componentes)
