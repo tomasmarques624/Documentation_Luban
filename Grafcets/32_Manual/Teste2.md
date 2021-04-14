@@ -4,19 +4,6 @@
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
-## Indice
-- [Equipamentos](#equipamentos)
-  - [Siemens S7 1200](#Siemens-S7-1200) 
-  - [Enconder](#enconder)
-  - [Servo Motor](#servo-motor)
-  - [Inversor de Frequência](#inversor-de-frequência)
-- [Componentes](#componentes)
-  - [Sensor Fotoelétrico](#sensor-fotoelétrico)
-  - [Sensor Magnético](#sensor-magnético) 
-  - [Sensor Indutivo](#sensor-indutivo) 
-  - [Sensor Ótico](#sensor-ótico) 
-  - [Cilindro Pneumático](#cilindro-pneumático)
-
 ## Equipamentos
 ### Enconder
    <details>
@@ -55,9 +42,5 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
 
 [Voltar ao Inicio](#Indice)
      </details>
-
-
-## Componentes
-
 
 
