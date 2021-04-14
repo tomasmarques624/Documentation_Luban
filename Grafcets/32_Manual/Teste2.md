@@ -4,8 +4,20 @@
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
-
 ## Indice
+- [Fantastico](#fantastico)
+- [Equipamentos](#equipamentos)
+  - [Siemens S7 1200](#Siemens-S7-1200) 
+  - [Enconder](#enconder)
+  - [Servo Motor](#servo-motor)
+  - [Inversor de Frequência](#inversor-de-frequência)
+- [Componentes](#componentes)
+  - [Sensor Fotoelétrico](#sensor-fotoelétrico)
+  - [Sensor Magnético](#sensor-magnético) 
+  - [Sensor Indutivo](#sensor-indutivo) 
+  - [Sensor Ótico](#sensor-ótico) 
+  - [Cilindro Pneumático](#cilindro-pneumático)
+
 ### Equipamentos
 <details>
   <summary>Enconder</summary>
