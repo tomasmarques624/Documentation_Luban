@@ -7,8 +7,9 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 [![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) [![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
 
-<div align="center">
-[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) 
+<div align="center"> [![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) </div>
+
+
 [![Line32 (https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) 
 [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
 </div>
@@ -57,5 +58,4 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   my text here.
 </div>
 
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span></div>
 
