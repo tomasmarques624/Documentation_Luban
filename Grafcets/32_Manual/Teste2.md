@@ -6,7 +6,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 
 # Indice
-## Equipamentos
+### Equipamentos
 <details>
   <summary>Enconder</summary>
   --------
