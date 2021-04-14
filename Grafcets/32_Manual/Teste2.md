@@ -19,18 +19,18 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   - [Cilindro Pneumático](#cilindro-pneumático)
 
 ### Equipamentos
-<details>
-  <summary>Enconder</summary>
-  Loading…
- </details>
-<details>
-  <summary>Servo Motor</summary>
-  Loading…
- </details>
-<details>
-  <summary>Inversor de Frequência</summary>
-  Loading…
- </details>
+    <details>
+      <summary>Enconder</summary>
+      Loading…
+     </details>
+    <details>
+      <summary>Servo Motor</summary>
+      Loading…
+     </details>
+    <details>
+      <summary>Inversor de Frequência</summary>
+      Loading…
+     </details>
  
 ### Componentes
 <details>
