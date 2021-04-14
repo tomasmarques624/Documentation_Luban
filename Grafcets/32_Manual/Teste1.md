@@ -22,6 +22,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ## Fantastico
 - O Luís é o maior!!!
 --
+
 ## Equipamentos
 --
 ### Enconder
@@ -33,6 +34,7 @@ Loading…
 Loading…
 ### Siemens S7 1200
 Loading…
+
 [Manuel Siemens - PLC271200](https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf)
 
 ## Componentes
