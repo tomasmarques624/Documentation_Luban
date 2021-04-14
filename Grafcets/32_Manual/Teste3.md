@@ -11,6 +11,8 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   <a href="#Outros">Outros</a>
 </div>
 
+[![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/2.png)](#Equipamentos)
+[![Componentes](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/1.png)](#Componentes)
 
 ## Equipamentos
 
