@@ -42,3 +42,9 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
   --------
  </details>
 
+<details>
+  <summary>Robots</summary>
+  <details-menu src="/robots" preload>
+    <include-fragment>Loading…</include-fragment>
+  </details-menu>
+</details>
