@@ -5,10 +5,10 @@
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#Equipamentos">News</a>
-  <a href="#Componentes">Contact</a>
-  <a href="#Outros">About</a>
+  <a class="active" </a>
+  <a href="#Equipamentos">Equipamentos</a>
+  <a href="#Componentes">Componentes</a>
+  <a href="#Outros">Outros</a>
 </div>
 
 
@@ -48,3 +48,5 @@ Loading…
 Loading…
 ### Cilindro Pneumático
 Loading…
+
+## Outros
