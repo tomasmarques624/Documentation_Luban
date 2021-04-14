@@ -4,20 +4,10 @@
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
-Opcao 1:
-<div class="topnav">
-  <a class="active" </a>
-  <a href="#Equipamentos">Equipamentos</a>
-  <a href="#Componentes">Componentes</a>
-  <a href="#Outros">Outros</a>
-</div>
+[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home.png)](#Home)
+[![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32.png)](#Line32)
+[![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About.png)](#About)
 
-+
-
-Opcao 2:
-
-[![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/2.png)](#Equipamentos)
-[![Componentes](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/1.png)](#Componentes)
 
 ## Equipamentos
 
