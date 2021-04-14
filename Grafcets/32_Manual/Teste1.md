@@ -8,7 +8,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ## Indice
 - [Fantastico](#fantastico)
 - [Equipamentos](#equipamentos)
-  - [Siemens S7 1200](#plc) 
+  - [Siemens S7 1200](#Siemens-S7-1200) 
   - [Enconder](#enconder)
   - [Servo Motor](#servo-motor)
   - [Inversor de Frequência](#inversor-de-frequência)
