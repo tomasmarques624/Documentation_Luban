@@ -5,7 +5,8 @@
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
 
-#### A collapsible section with markdown
+### Indice
+#### Equipamentos
 <details>
   <summary>Click to expand!</summary>
   
@@ -15,3 +16,16 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
      * With some
      * Sub bullets
 </details>
+
+## Indice
+- [Fantastico](#fantastico)
+- [Equipamentos](#equipamentos)
+  - [Enconder](#enconder)
+  - [Servo Motor](#servo-motor)
+  - [Inversor de Frequência](#inversor-de-frequência)
+- [Componentes](#componentes)
+  - [Sensor Fotoelétrico](#sensor-fotoelétrico)
+  - [Sensor Magnético](#sensor-magnético) 
+  - [Sensor Indutivo](#sensor-indutivo) 
+  - [Sensor Ótico](#sensor-ótico) 
+  - [Cilindro Pneumático](#cilindro-pneumático)
