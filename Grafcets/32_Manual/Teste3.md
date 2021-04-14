@@ -50,6 +50,4 @@ Loading…
 Loading…
 
 ## Outros
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/menu.svg?style=flat-square)](https://packagist.org/packages/spatie/menu)
-[![Tests](https://github.com/spatie/menu/workflows/Tests/badge.svg)](https://github.com/spatie/menu/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Equipamentos.png)](#enconder)
+[![Equipamentos](https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Equipamentos.png)](#Equipamentos)
