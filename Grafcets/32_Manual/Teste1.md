@@ -21,7 +21,6 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 ## Fantastico
 - O Luís é o maior!!!
---
 
 ## Equipamentos
 --
