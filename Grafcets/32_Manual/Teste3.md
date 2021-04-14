@@ -5,14 +5,14 @@
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
 
-[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) [![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
-
-<div align="center"> [![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) </div>
-
-
-[![Line32 (https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) 
+[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) 
+[![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) 
 [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
-</div>
+
+<div align="center"> teste </div>
+
+
+
 
 
 ## Line32
@@ -54,8 +54,6 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 ## About
 
-<div align="center">
-  my text here.
-</div>
+
 
 
