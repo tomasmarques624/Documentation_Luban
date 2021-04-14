@@ -20,15 +20,15 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 ### Equipamentos
    <details>
-      <summary>Enconder</summary>
+     <summary>Enconder</summary>
       Loading…
      </details>
    <details>
-      <summary>Servo Motor</summary>
+     <summary>Servo Motor</summary>
       Loading…
      </details>
    <details>
-      <summary>Inversor de Frequência</summary>
+     <summary>Inversor de Frequência</summary>
       Loading…
      </details>
  
