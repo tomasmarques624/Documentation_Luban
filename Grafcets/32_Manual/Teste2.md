@@ -5,7 +5,6 @@
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
 
 ## Indice
-- [Fantastico](#fantastico)
 - [Equipamentos](#equipamentos)
   - [Siemens S7 1200](#Siemens-S7-1200) 
   - [Enconder](#enconder)
