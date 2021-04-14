@@ -8,10 +8,20 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ### Indice
 #### Equipamentos
 <details>
-  <summary>Enconder!</summary>
+  <summary>Enconder</summary>
   --------
  </details>
-
+<details>
+  <summary>Servo Motor</summary>
+  --------
+ </details>
+<details>
+  <summary>Inversor de Frequência</summary>
+  --------
+ </details>
+ 
+ 
+ 
 ## Indice
 - [Fantastico](#fantastico)
 - [Equipamentos](#equipamentos)
