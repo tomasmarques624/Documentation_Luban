@@ -46,3 +46,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 ## About
 
+<div align="center">
+  my text here.
+</div>
+
