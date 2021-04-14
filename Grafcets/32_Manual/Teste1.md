@@ -24,7 +24,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 ## Equipamentos
 
-### Enconder
+### Enconder [![Indice](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home.png)](#Indice)
 Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados para conversão de movimentos rotativos ou deslocamentos lineares em impulsos elétricos de onda quadrada, que geram uma quantidade exata de impulsos por volta em uma distribuição perfeita dos pulsos ao longo dos 360 graus do giro do eixo.
 
 [Voltar ao Inicio](#Indice)
