@@ -1,9 +1,6 @@
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80" />    
 
 
-[Manuel Siemens - PLC271200](https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf)
-
-
 # LuBan Workshop Portugal
 
 O presente documento tem  como  objetivo  principal  descrever  todo o trabalho relizado na   Oficina   Lu   Ban.
@@ -11,6 +8,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 ## Indice
 - [Fantastico](#fantastico)
 - [Equipamentos](#equipamentos)
+  - [Siemens S7 1200](#plc) 
   - [Enconder](#enconder)
   - [Servo Motor](#servo-motor)
   - [Inversor de Frequência](#inversor-de-frequência)
@@ -33,6 +31,9 @@ Encoders ou geradores de Impulsos são equipamentos eletromecânicos, utilizados
 Loading…
 ### Inversor de Frequência
 Loading…
+### Siemens S7 1200
+Loading…
+[Manuel Siemens - PLC271200](https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf)
 
 ## Componentes
 Loading…
