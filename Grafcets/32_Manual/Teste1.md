@@ -52,7 +52,7 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
 </div>
       
 
- ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀      ⠀  ⠀  ⠀  ⠀    ⠀  ⠀    ⠀    ⠀  ⠀    [Voltar ao Inicio](#Indice)⠀ 
+ ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀      ⠀  ⠀  ⠀  ⠀    ⠀    ⠀    ⠀    ⠀  ⠀    [Voltar ao Inicio](#Indice)⠀ 
 ⠀   ⠀  ⠀
 ## Componentes
 ### Sensor Fotoelétrico
