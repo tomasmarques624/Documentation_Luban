@@ -8,15 +8,13 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 <div align="center">
   <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![Home]/>
-  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![Line32]/>
+   <a href="#line32"><img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![Line32]/></a>
   <a href="#about"><img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png"(#About)[![About] /></a>
 </div>⠀ 
    
 
 <div id="line32">
 ## Line32
-</div>
-
 ### Equipamentos
 
   - [Siemens S7 1200](#Siemens-S7-1200) 
@@ -51,7 +49,8 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
     Loading…
 #### Cilindro Pneumático
     Loading…
-    
+   </div>
 <div id="about">
 ## About
+
 </div>
