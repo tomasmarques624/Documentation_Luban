@@ -43,8 +43,7 @@ Um inversor de frequência é um dispositivo capaz de controlar a velocidade de 
 Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para soluções de automação compacta com opções de comunicação estendidas e funções tecnológicas integradas. Eles estão disponíveis em versões padrão e à prova de falhas.
 
    <details>
-     <summary>Manuais</summary> 
- ⠀   ⠀  ⠀ ⠀  ⠀  ⠀  ⠀  ⠀  ⠀   ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀⠀  ⠀ ⠀  ⠀  
+     <summary>Manuais</summary> ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀⠀  ⠀ ⠀  ⠀  
       <p> <a href="https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf">System Manual - Siemens - PLC S7-1200</a></p>
       <p> <a href="https://euroec.by/assets/files/siemens/s71200_easy_book_en-US_en-US.pdf">Easy Book - Siemens - PLC S7-1200</a></p> </details>
 
