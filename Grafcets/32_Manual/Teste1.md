@@ -48,11 +48,8 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
       <p> <a href="https://euroec.by/assets/files/siemens/s71200_easy_book_en-US_en-US.pdf">Easy Book - Siemens - PLC S7-1200</a></p> </details>
       
 <div align="center">
-  my text
-</div>
-      
-
- ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀      ⠀  ⠀  ⠀  ⠀    ⠀    ⠀    ⠀      ⠀  ⠀    [Voltar ao Inicio](#Indice)⠀ 
+  [Voltar ao Inicio](#Indice)⠀ 
+</div>⠀ 
 ⠀   ⠀  ⠀
 ## Componentes
 ### Sensor Fotoelétrico
