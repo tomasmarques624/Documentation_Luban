@@ -1,8 +1,3 @@
-<style>
-html {
-  scroll-behavior: smooth;
-}
-</style>
 <img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80"/>    
 
 # Lu Ban Workshop Portugal
