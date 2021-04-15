@@ -1,4 +1,4 @@
-<img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80" />    
+<img src="https://github.com/LMigu3liPT/Documentation_Luban/blob/main/Grafcets/32_Manual/Imagens_Grafcets/Logo_Luban.png" width="80"/>    
 
 # Lu Ban Workshop Portugal
 
@@ -15,13 +15,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
    
 
 
-
-
-
-
-
 ## Line32
-
 ### Equipamentos
 
   - [Siemens S7 1200](#Siemens-S7-1200) 
