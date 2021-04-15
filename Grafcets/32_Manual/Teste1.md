@@ -47,7 +47,7 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
       <a href="https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf">System Manual - Siemens - PLC S7-1200</a>
       <p> <a href="https://euroec.by/assets/files/siemens/s71200_easy_book_en-US_en-US.pdf">Easy Book - Siemens - PLC S7-1200</a></p> </details>
       
-<div align»"center">
+<div align="center">
   my text
 </div>
       
