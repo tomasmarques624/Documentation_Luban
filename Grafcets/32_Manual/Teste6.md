@@ -7,8 +7,8 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 
 <div align="center">
-  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![About]/>
-  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![About]/>
+  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![Home]/>
+  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![Line32]/>
   <a href="#about"><img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png"(#About)[![About] /></a>
 </div>⠀ 
    
