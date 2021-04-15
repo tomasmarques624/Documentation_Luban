@@ -44,9 +44,12 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
 
    <details>
      <summary>Manuais</summary> 
-      - <p>[System Manual - Siemens - PLC S7-1200](https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf)</p>
-      - <p>[Easy Book - Siemens - PLC S7-1200](https://euroec.by/assets/files/siemens/s71200_easy_book_en-US_en-US.pdf)</p>
+      <p> - [System Manual - Siemens - PLC S7-1200][1]</p>
+      <p> - [Easy Book - Siemens - PLC S7-1200][2]</p>
    </details>
+   
+   [1]: https://assets.new.siemens.com/siemens/assets/api/uuid:c0b52e48-be0a-4737-bf6e-a1b1a1d1fb7e/onlinehelp-v90-pt-pt.pdf
+   [2]: https://euroec.by/assets/files/siemens/s71200_easy_book_en-US_en-US.pdf
 
 [Voltar ao Inicio](#Indice)
 
@@ -84,4 +87,5 @@ Os cilindros pneumáticos da norelem operam com movimento linear e são acionado
 Graças à sua estrutura robusta, os cilindros de compressão são versáteis e de multiaplicação. Estes cilindros pneumáticos podem ser utilizados por exemplo em ferramentas de injeção assim como na tecnologia de movimentação de materiais, de comando e manipulação 
 
 [Voltar ao Inicio](#Indice)
+
 
