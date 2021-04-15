@@ -1,3 +1,1 @@
-[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) 
-[![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) 
-[![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
+[![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home)[![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32)[![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
