@@ -6,11 +6,11 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
  ⠀ 
   ⠀ 
 
- ⠀  ⠀ ⠀  ⠀  ⠀  ⠀  ⠀  ⠀   ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀⠀  ⠀ ⠀  ⠀  [![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home) [![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32) [![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
+ ⠀  ⠀ ⠀  ⠀  ⠀  ⠀  ⠀  ⠀   ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀⠀  ⠀ ⠀  ⠀  [![Home](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png)](#Home)[![Line32](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png)](#Line32)[![About](https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png)](#About)
 
 
 <div align="center">
-  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![About] />⠀<img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![About] /> <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png"(#About)[![About] />
+  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![About]/><img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![About]/><img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/About_CB.png"(#About)[![About]/>
 </div>⠀ 
    
 
