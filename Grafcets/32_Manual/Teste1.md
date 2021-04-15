@@ -42,8 +42,6 @@ Um inversor de frequência é um dispositivo capaz de controlar a velocidade de 
 ### Siemens S7 1200
 Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para soluções de automação compacta com opções de comunicação estendidas e funções tecnológicas integradas. Eles estão disponíveis em versões padrão e à prova de falhas.
 
-[Voltar ao Inicio](#Indice)
-
    <details>
      <summary>Manuais</summary> 
  ⠀   ⠀  ⠀ ⠀  ⠀  ⠀  ⠀  ⠀  ⠀   ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀  ⠀⠀  ⠀ ⠀  ⠀  
