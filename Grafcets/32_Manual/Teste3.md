@@ -10,7 +10,7 @@ O presente documento tem  como  objetivo  principal  descrever  todo o trabalho 
 
 
 <div align="center">
-  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Home_CB.png"(#Home)[![Line32]" />⠀ 
+  <img src="https://github.com/luismbarroso/Documentation_Luban/blob/main/Grafcets/32_Manual/Navbar/Line32_CB.png"(#Line32)[![About] />⠀ 
 </div>⠀ 
    
 
