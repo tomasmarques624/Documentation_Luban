@@ -51,6 +51,7 @@ Os controladores SIMATIC S7-1200 da Siemens são a escolha inteligente para solu
   [Voltar ao Inicio](#Indice)⠀ 
 </div>⠀ 
 
+
 ## Componentes
 ### Sensor Fotoelétrico
 Sensor fotoelétrico pode ser definido como um dispositivo de conversão de luz! A sua função principal é converter uma manifestação luminosa, seja de luz ou sombra em um sinal elétrico, que poderá ser interpretado por um circuito eletrônico como um comando por exemplo.
